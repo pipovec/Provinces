@@ -4,7 +4,7 @@
 # Provinces
 
 ReactJS miniapp World of tanks
-Mini aplikácia, ktorá zobrazuje aktuálne územia klanu, názov mapy, dĺžku držania územia a denný zisk z územia. Ide jednoducho vložiť do stránky iba pomocov HTML tagov. Aby zobrazovala údaje pre Váš klan, treba si na stránke [Cz/Sk klany](https://fpcstat.cz/cz-sk-klany/) nájsť ID klanu a vložiť ho do javascriptu: 
+Mini aplikácia, ktorá zobrazuje aktuálne územia klanu, názov mapy, dĺžku držania územia a denný zisk z územia. Ide jednoducho vložiť do stránky iba pomocov HTML tagov. Aby zobrazovala údaje pre Váš klan, treba si na stránke [Cz/Sk klany](https://fpcstat.cz/cz-sk-klany/) nájsť ID klanu a vložiť ho do javascriptu:
 
 ```
   ReactDOM.render(<Provinces clan_id = {500005844}/>,
