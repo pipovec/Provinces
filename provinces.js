@@ -66,5 +66,5 @@ class Provinces extends React.Component {
     }
   }
 
-ReactDOM.render(<Provinces clan_id = { {php  echo $clan_id;} }/>, 
+ReactDOM.render(<Provinces clan_id = {500005844}/>, 
 document.getElementById('clanProvince'));
